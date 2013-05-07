@@ -1,0 +1,22 @@
+/* line 10, ../sass/aula05.scss */
+.vermelho {
+  color: red;
+}
+
+/* line 14, ../sass/aula05.scss */
+.amarelo {
+  color: yellow;
+}
+
+/* line 18, ../sass/aula05.scss */
+.verde {
+  color: black;
+}
+
+/* line 22, ../sass/aula05.scss */
+.error {
+  font-color: white;
+  background-color: black;
+  width: 300px;
+  border: 1px yellow;
+}

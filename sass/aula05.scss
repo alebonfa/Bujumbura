@@ -1,0 +1,28 @@
+$highlight-color: #000000;
+$width: 300px;
+$base-color: #fff;
+$background-color: #000000;
+$cor-vermelha: red;
+$cor-amarela: yellow;
+$cor-verde: black;
+$border: 1px $cor_amarela;
+
+.vermelho {
+	color: $cor-vermelha;
+}
+
+.amarelo {
+	color: $cor-amarela;
+}
+
+.verde {
+	color: $cor-verde;
+}
+
+.error {
+	font-color: $base-color;
+	background-color: $background-color;
+	width: $width;
+	border: $border;
+}
+
